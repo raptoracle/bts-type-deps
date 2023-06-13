@@ -21,6 +21,10 @@
     "stripInternal": true,
     "noImplicitThis": true,
     "noUnusedLocals": true,
-    "noUnusedParameters": false
+    "noUnusedParameters": false,
+    
+    "typeRoots": [
+      "node_modules/bts-types/types"
+    ]
   }
 }
