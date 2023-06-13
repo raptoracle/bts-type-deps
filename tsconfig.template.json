@@ -24,7 +24,7 @@
     "noUnusedParameters": false,
     
     "typeRoots": [
-      "node_modules/bts-types/types"
+      "node_modules/bts-type-deps/types"
     ]
   }
 }
