@@ -1,0 +1,26 @@
+{
+  "include": [
+    "lib/**/*.js"
+  ],
+  "compilerOptions": {
+    "rootDir": ".",
+    "lib": [
+      "ES2016"
+    ],
+
+    "noEmit": true,
+
+    "allowJs": true,
+    "checkJs": true,
+    "maxNodeModuleJsDepth": 2,
+
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+
+    "stripInternal": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false
+  }
+}
