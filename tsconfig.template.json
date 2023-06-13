@@ -23,7 +23,7 @@
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": false,
-    
+
     "typeRoots": [
       "node_modules/bts-type-deps/types"
     ]
