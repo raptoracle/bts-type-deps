@@ -18,7 +18,7 @@
   "typeDependencies": {
     "node": {
       "pkgName": "@types/node",
-      "version": "14.0.1"
+      "version": "16.6.2"
     }
   }
 }
