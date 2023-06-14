@@ -1,6 +1,6 @@
 {
   "name": "bts-type-deps",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Typescript type dependencies for bcoin and handshake",
   "repository": {
     "type": "git",
