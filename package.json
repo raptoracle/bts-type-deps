@@ -4,14 +4,14 @@
   "description": "Typescript type dependencies for bcoin and handshake",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bcoin-org/bts-type-deps.git"
+    "url": "git+https://github.com/raptoracle/bts-type-deps.git"
   },
   "author": "Nodari Chkuaselidze",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bts-type-deps/issues"
+    "url": "https://github.com/raptoracle/bts-type-deps/issues"
   },
-  "homepage": "https://github.com/bcoin-org/bts-type-deps#readme",
+  "homepage": "https://github.com/raptoracle/bts-type-deps#readme",
   "scripts": {
     "update-types": "./scripts/update.js"
   },
